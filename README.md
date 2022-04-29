@@ -1,141 +1,114 @@
-<div>
-
-<span class="c10"></span>
-
-[](){#t.5e5541b9bf8e121da87c0e19ae2629b8e95fa5d0}[](){#t.4}
-<span
-style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 160.25px; height: 66.03px;">![Programación
-Web 1](images/image1.png)</span>
-
-<span class="c21">UNIVERSIDAD NACIONAL DE SAN AGUSTIN</span>
-
-<span class="c21">FACULTAD DE INGENIERÍA DE PRODUCCIÓN Y
-SERVICIOS</span>
-
-<span class="c21">ESCUELA PROFESIONAL DE INGENIERÍA DE SISTEMA</span>
-
-<span
-style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 53.16px; height: 53.16px;">![](images/image2.png)</span>
-
-<span class="c6 c43">Formato: </span><span class="c6">Guía de Práctica
-de Laboratorio / Talleres / Centros de Simulación</span>
-
-<span class="c4">Aprobación:  2022/03/01</span>
-
-<span class="c4">Código: GUIA-PRLE-001</span>
-
-<span class="c4">Página: </span>
-
-<span class="c10"></span>
-
+<div align="center">
+<table>
+    <theader>
+        <tr>
+            <td><img src="https://github.com/rescobedoq/pw2/blob/main/epis.png?raw=true" alt="EPIS" style="width:50%; height:auto"/></td>
+            <th>
+                <span style="font-weight:bold;">UNIVERSIDAD NACIONAL DE SAN AGUSTIN</span><br />
+                <span style="font-weight:bold;">FACULTAD DE INGENIERÍA DE PRODUCCIÓN Y SERVICIOS</span><br />
+                <span style="font-weight:bold;">ESCUELA PROFESIONAL DE INGENIERÍA DE SISTEMAS</span>
+            </th>
+            <td><img src="https://github.com/rescobedoq/pw2/blob/main/abet.png?raw=true" alt="ABET" style="width:50%; height:auto"/></td>
+        </tr>
+    </theader>
+    <tbody>
+        <tr><td colspan="3"><span style="font-weight:bold;">Formato</span>: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación</td></tr>
+        <tr><td><span style="font-weight:bold;">Aprobación</span>:  2022/03/01</td><td><span style="font-weight:bold;">Código</span>: GUIA-PRLD-001</td><td><span style="font-weight:bold;">Página</span>: 1</td></tr>
+    </tbody>
+</table>
 </div>
 
-<span class="c39">INFORME DE LABORATORIO</span>
+<div align="center">
+<span style="font-weight:bold;">INFORME DE LABORATORIO</span><br />
+<span>(formato estudiante)</span>
+</div>
 
-<span class="c39">(formato estudiante)</span>
+<div aling="center">
+<table>
+<theader>
+<tr><th colspan="6">INFORMACIÓN BÁSICA</th></tr>
+</theader>
+<tbody>
+<tr><td>ASIGNATURA:</td><td colspan="5">Programación Web 2</td></tr>
+<tr><td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">Git - GitHub</td></tr>
+<tr>
+<td>NÚMERO DE PRÁCTICA:</td><td>01</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td>
+</tr>
+<tr>
+<td>FECHA DE PRESENTACIÓN: </td><td>28-Abr-2022</td><td>HORA DE PRESENTACIÓN: </td><td colspan="3">2:00 pm</td>
+</tr>
+<tr><td colspan="4">INTEGRANTE(S): 
+<ul>
+<li>GALVEZ QUILLA, Henry Isaias (hgalvezq@unsa.edu.pe)</li>
+</ul>
+</td>
+<td>NOTA: </td>
+<td width="150"></td>
+</<tr>
+<tr><td colspan="6">DOCENTES:
+<ul>
+<li>Richart Smith Escobedo Quispe (rescobedoq@unsa.edu.pe)</li>
+</ul>
+</td>
+</<tr>
+</tdbody>
+</table>
+</div>
 
-[](){#t.423bcf4a51d56cb1659cc6b29e69bd181a31efcb}[](){#t.0}
+<div aling="center">
+<table>
+<theader>
+<tr><th colspan="6">SOLUCIÓN Y RESULTADOS</th></tr>
+</theader>
+<tbody>
+<tr><td colspan="6">I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS: 
+<ul>
+<li></li>
+</ul>
+</td>
+</<tr>
+<tr><td colspan="6">I. SOLUCIÓN DEL CUESTIONARIO:
+<ul>
+<li></li>
+</ul>
+</td>
+</<tr>
+<tr><td colspan="6">III. CONCLUSIONES: 
+<ul>
+<li></li>
+</ul>
+</td>
+</<tr>
+</tdbody>
+</table>
+</div>
 
-<span class="c5">INFORMACIÓN BÁSICA</span>
+<div aling="center">
+<table>
+<theader>
+<tr><th colspan="6">RETROALIMENTACIÓN GENERAL</th></tr>
+</theader>
+<tbody>
+<tr><td colspan="6">
+<ul>
+<li></li>
+</ul>
+</td>
+</<tr>
 
-<span class="c7">ASIGNATURA: </span>
+<div aling="center">
+<table>
+<theader>
+<tr><th colspan="6">REFERENCIAS Y BIBLIOGRAFÍA</th></tr>
+</theader>
+<tbody>
+<tr><td colspan="6">
+<ul>
+<li></li>
+</ul>
+</td>
+</<tr>
 
-<span class="c24">        </span>
-
-<span class="c7">TÍTULO DE LA PRÁCTICA: </span>
-
-<span class="c3"></span>
-
-<span class="c15">NÚMERO DE PRÁCTICA:</span>
-
-<span class="c3"></span>
-
-<span class="c15">AÑO LECTIVO:</span>
-
-<span class="c3"></span>
-
-<span class="c15">NRO. SEMESTRE:</span>
-
-<span class="c3"></span>
-
-<span class="c7">FECHA DE PRESENTACIÓN</span>
-
-<span class="c3"></span>
-
-<span class="c7">HORA DE PRESENTACIÓN</span>
-
-<span class="c3"></span>
-
-<span class="c7">INTEGRANTE (s): </span>
-
-<span class="c19"></span>
-
-<span class="c19"></span>
-
-<span class="c15">NOTA:</span>
-
-<span class="c3"></span>
-
-<span class="c7">DOCENTE(s):</span>
-
-<span class="c3"></span>
-
-<span class="c3"></span>
-
-<span class="c10"></span>
-
-[](){#t.5caa39914c1e8944e566710586b5e373744355bd}[](){#t.1}
-
-+--------------------------------------------------------------------------+
-| <span class="c5 c46">SOLUCIÓN Y RESULTADOS</span>                        |
-+--------------------------------------------------------------------------+
-| 1.  <span class="c7">SOLUCIÓN DE EJERCICIOS/PROBLEMAS</span>             |
-|                                                                          |
-| <span class="c3"></span>                                                 |
-|                                                                          |
-| <span class="c3"></span>                                                 |
-|                                                                          |
-| <span class="c19"></span>                                                |
-+--------------------------------------------------------------------------+
-| 2.  <span class="c7">SOLUCIÓN DEL CUESTIONARIO</span>                    |
-|                                                                          |
-| <span class="c3"></span>                                                 |
-|                                                                          |
-| <span class="c19"></span>                                                |
-|                                                                          |
-| <span class="c19"></span>                                                |
-|                                                                          |
-| <span class="c19"></span>                                                |
-+--------------------------------------------------------------------------+
-| 3.  <span class="c7">CONCLUSIONES</span>                                 |
-|                                                                          |
-| <span class="c3"></span>                                                 |
-|                                                                          |
-| <span class="c19"></span>                                                |
-+--------------------------------------------------------------------------+
-
-<span class="c10"></span>
-
-[](){#t.58d1de7224a46fa04ed90ae2513bd4d78b5de068}[](){#t.2}
-
-+--------------------------------------------------------------------------+
-| <span class="c5">RETROALIMENTACIÓN GENERAL</span>                        |
-+--------------------------------------------------------------------------+
-| <span class="c10"></span>                                                |
-|                                                                          |
-| <span class="c10"></span>                                                |
-+--------------------------------------------------------------------------+
-
-<span class="c10"></span>
-
-[](){#t.4e79ba32b802cd5bf5442f2044c93809a3ede0b6}[](){#t.3}
-
-+--------------------------------------------------------------------------+
-| <span class="c5">REFERENCIAS Y BIBLIOGRAFÍA</span>                       |
-+--------------------------------------------------------------------------+
-| <span class="c3"></span>                                                 |
-+--------------------------------------------------------------------------+
-
-<span class="c10"></span>
-
-<span class="c10"></span>
+</tdbody>
+</table>
+</div>
